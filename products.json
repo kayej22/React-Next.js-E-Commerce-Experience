@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Coca-Cola",
+    "image": "/images/coke.jpg",
+    "id": "cola_can",
+    "description": "Taste the feeling!",
+    "price": "1.69"
+  },
+
+  {
+    "title": "Diet Coke",
+    "image": "/images/dietcoke.jpg",
+    "id": "dietcoke_can",
+    "description": "It's incredibly refreshing",
+    "price": "1.69"
+  },
+
+  {
+    "title": "Pepsi",
+    "image": "/images/pepsi.jpg",
+    "id": "pepsi_can",
+    "description": "That's what I like",
+    "price": "1.49"
+  },
+
+  {
+    "title": "Diet Pepsi",
+    "image": "/images/dietpepsi.jpg",
+    "id": "dietpepsi_can",
+    "description": "That's what I like...with less sugar",
+    "price": "1.49"
+  },
+
+  {
+    "title": "Barqs",
+    "image": "/images/Barqs.jpg",
+    "id": "barqs_can",
+    "description": "It's got bite!",
+    "price": "1.89"
+  },
+
+  {
+    "title": "Dr Pepper",
+    "image": "/images/drpepper.jpg",
+    "id": "pepper_can",
+    "description": "King of beverages",
+    "price": "1.65"
+  },
+
+  {
+    "title": "Mountain Dew",
+    "image": "/images/mountaindew.jpg",
+    "id": "dew_can",
+    "description": "Do the DEW",
+    "price": "1.70"
+  },
+
+  {
+    "title": "Sprite",
+    "image": "/images/sprite.jpg",
+    "id": "sprite_can",
+    "description": "Obey Your Thirst",
+    "price": "1.50"
+  },
+
+  {
+    "title": "Squirt",
+    "image": "/images/squirt.jpg",
+    "id": "squirt_can",
+    "description": "Thirst Quencher",
+    "price": "1.80"
+  }
+
+]
