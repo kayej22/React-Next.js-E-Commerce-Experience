@@ -1,19 +1,23 @@
+
+
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family: "Poppins", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  color: antiquewhite;
   background-image: url(../public/images/sodabubbles.jpg) ;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 a {
-  color: inherit;
+  color: antiquewhite;
   text-decoration: none;
 }
 
 * {
   box-sizing: border-box;
 }
+

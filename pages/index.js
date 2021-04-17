@@ -1,3 +1,4 @@
+
 import products from '../products.json'
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
@@ -21,7 +22,9 @@ export default function Home() {
         </h1>
           <img className={styles.logo} src={'/images/soda_logo.svg'} />
 
-
+          {/* Greensock */}
+            
+          {/* Greensock */}
         <p className={styles.description}>
           <a className="snipcart-checkout snipcart-summary" href="#" style={{textDecoration: "none"}}>
             <strong>Cart:</strong> <span className="snipcart-total-price">$0.00</span>
