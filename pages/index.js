@@ -2,7 +2,6 @@
 import products from '../products.json'
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
-import {TweenMax, TimelineLite, Power3} from 'gsap'
 import App from './_app2'
 
 
@@ -23,9 +22,11 @@ export default function Home() {
           Soda Bros
         </h1>
           {/* Greensock */}
-          <App />
+          <App/>
           {/* Greensock */}
+        
           <img className={styles.logo} src={'/images/soda_logo.svg'} />
+          
 
         <p className={styles.description}>
           <a className="snipcart-checkout snipcart-summary" href="#" style={{textDecoration: "none"}}>
@@ -67,8 +68,8 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
+          Thist quenched by{' '}
+          <img src={'/images/soda_logo.svg'} alt="Soda Bro's Logo" className={styles.logo} />
         </a>
       </footer>
       <script async src="https://cdn.snipcart.com/themes/v3.0.21/default/snipcart.js" />

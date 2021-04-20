@@ -1,9 +1,5 @@
-
 import '../styles/globals.css';
 import '../styles/App.scss';
-
-
-
 
 
 function MyApp({ Component, pageProps }) {
