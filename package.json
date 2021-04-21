@@ -13,5 +13,19 @@
     "node-sass": "^5.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
-  }
+  },
+  "description": "## Joel Kaye",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayej22/React-Next.js-E-Commerce-Experience.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayej22/React-Next.js-E-Commerce-Experience/issues"
+  },
+  "homepage": "https://github.com/kayej22/React-Next.js-E-Commerce-Experience#readme"
 }
